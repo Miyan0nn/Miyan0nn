@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/zoKdmndB8QBR2c0gjy/giphy.gif" width="250">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXNlZWJuaXo1YWludjg4NXI4OHBwa2kydHBvMjU4ZnhnZXluMnlqYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9C25UNTwfZuk85WP/giphy-downsized.gif" width="250">
   <div id="badges">
   <a href="https://www.linkedin.com/in/qianyining/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
